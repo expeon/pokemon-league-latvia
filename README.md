@@ -6,17 +6,19 @@ Feel free to use the artwork for different Pokémon groups in Latvia or any othe
 
 ## Gyms
 
-|        |  |           |    |
-|--|--|--|--|
-|**Ogre**   | ![Ogre league badge](/badges/png-transparent/Ogre-mini.png)    | `Water` |  Based on [Ogre city](https://en.wikipedia.org/wiki/Ogre,_Latvia) coat of arms, using Ogre river as a distinctive symbol for this gym's badge and the reasoning for the Gym's typing |
-|**Ikšķile**| ![Ikšķile league badge](/badges/png-transparent/Ikskile-mini.png) | `Grass`  | Uses [Ikšķile's tourism logo](https://ikskile.com/zinas/pilseta/apstiprinats-ikskilesi-caurumainas-kvadratgalvas/) as a feature for this badge and popular Ikšķile attraction - grassy beaches on the bank of Daugava river and its vast forests as foundation for its typing  |
-|**Jelgava**| ![Jelgava league badge](/badges/png-transparent/Jelgava-mini.png) | `Fighting` | Based on [Jelgava's (Mitau)](https://en.wikipedia.org/wiki/Jelgava) heraldics, substituting moose for [Wyrdeer](https://bulbapedia.bulbagarden.net/wiki/Wyrdeer_(Pokémon)) and using its warfare history for the basis of its typing |
-|**Rīga**   | ![Rīga league badge](/badges/png-transparent/Riga-mini.png)    | `Fire` `Fighting` | Final, the most challenging gym in the region. The badge takes inspiration of [Riga's coat of arms](https://en.wikipedia.org/wiki/Coat_of_arms_of_Riga), using prominant symbols  (the castle and the keys) as defining elements |
+|        |  |           |    
+|--|--|--|
+|**Ogre**   | ![Ogre league badge](/badges/png-transparent/Ogre-mini.png)    | `Water` |
+|**Ikšķile**| ![Ikšķile league badge](/badges/png-transparent/Ikskile-mini.png) | `Grass`  | 
+|**Jelgava**| ![Jelgava league badge](/badges/png-transparent/Jelgava-mini.png) | `Fighting` |  |
+|**Rīga**   | ![Rīga league badge](/badges/png-transparent/Riga-mini.png)    | `Fire` `Fighting` |  |
 
 
 ### Ogre gym
 
 [`svg`](/badges/svg/Ogre.svg) · [`png` (full)](/badges/png/Ogre.png) · [`png` (transparent)](/badges/png-transparent/Ogre.png)
+
+> Based on [Ogre city](https://en.wikipedia.org/wiki/Ogre,_Latvia) coat of arms, using Ogre river as a distinctive symbol for this gym's badge and the reasoning for the Gym's typing
 
 Used in:
 - Pokémon GO Ogre raid telegram group
@@ -29,11 +31,15 @@ Used in:
 
 [`svg`](/badges/svg/Ikskile.svg) · [`png` (full)](/badges/png/Ikskile.png) · [`png` (transparent)](/badges/png-transparent/Ikskile.png)
 
+> Uses [Ikšķile's tourism logo](https://ikskile.com/zinas/pilseta/apstiprinats-ikskilesi-caurumainas-kvadratgalvas/) as a feature for this badge and popular Ikšķile attraction - grassy beaches on the bank of Daugava river and its vast forests as foundation for its typing 
+
 ![Ikšķile league badge](/badges/png-transparent/Ikskile.png) 
 
 ### Jelgava gym
 
 [`svg`](/badges/svg/Jelgava.svg) · [`png` (full)](/badges/png/Jelgava.png) · [`png` (transparent)](/badges/png-transparent/Jelgava.png)
+
+> Based on [Jelgava's (Mitau)](https://en.wikipedia.org/wiki/Jelgava) heraldics, substituting moose for [Wyrdeer](https://bulbapedia.bulbagarden.net/wiki/Wyrdeer_(Pokémon)) and using its warfare history for the basis of its typing
 
 ![Jelgava league badge](/badges/png-transparent/Jelgava.png) 
 
@@ -42,6 +48,10 @@ Used in:
 
 
 [`svg`](/badges/svg/Riga.svg) · [`png` (full)](/badges/png/Riga.png) · [`png` (transparent)](/badges/png-transparent/Riga.png)
+
+
+> Final, the most challenging gym in the region. The badge takes inspiration of [Riga's coat of arms](https://en.wikipedia.org/wiki/Coat_of_arms_of_Riga), using prominant symbols  (the castle and the keys) as defining elements
+
 
 Used in:
 - Pokémon GO Rīga raid telegram group
